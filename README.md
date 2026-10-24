@@ -69,3 +69,9 @@ Shortcuts never fire while you are typing in an input, textarea or date field; C
 - Large images are stored at original size; no thumbnails are generated.
 - Single workspace; there is no canvas search (search applies to the task lists).
 - Desktop-first: the layout assumes a window of at least 900×560.
+
+## Screenshots
+
+![SnapTask Canvas](screenshots/now.png)
+![SnapTask Canvas](screenshots/new2.png)
+![SnapTask Canvas](screenshots/new.png)
